@@ -1,6 +1,6 @@
 {
   "name": "monster-search",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/andrewbartkomacewan/monster-search",
   "private": true,
   "dependencies": {
