@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/andrewbartkomacewan/monster-search/static/css/main.4ed4b157.css",
-    "main.js": "/andrewbartkomacewan/monster-search/static/js/main.5762b9fa.js",
-    "static/js/787.cf35b873.chunk.js": "/andrewbartkomacewan/monster-search/static/js/787.cf35b873.chunk.js",
-    "index.html": "/andrewbartkomacewan/monster-search/index.html",
-    "main.4ed4b157.css.map": "/andrewbartkomacewan/monster-search/static/css/main.4ed4b157.css.map",
-    "main.5762b9fa.js.map": "/andrewbartkomacewan/monster-search/static/js/main.5762b9fa.js.map",
-    "787.cf35b873.chunk.js.map": "/andrewbartkomacewan/monster-search/static/js/787.cf35b873.chunk.js.map"
+    "main.css": "/monster-search/static/css/main.4ed4b157.css",
+    "main.js": "/monster-search/static/js/main.052b4243.js",
+    "static/js/787.cf35b873.chunk.js": "/monster-search/static/js/787.cf35b873.chunk.js",
+    "index.html": "/monster-search/index.html",
+    "main.4ed4b157.css.map": "/monster-search/static/css/main.4ed4b157.css.map",
+    "main.052b4243.js.map": "/monster-search/static/js/main.052b4243.js.map",
+    "787.cf35b873.chunk.js.map": "/monster-search/static/js/787.cf35b873.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ed4b157.css",
-    "static/js/main.5762b9fa.js"
+    "static/js/main.052b4243.js"
   ]
 }
